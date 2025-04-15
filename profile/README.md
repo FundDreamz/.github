@@ -2,7 +2,7 @@
 
 Welcome to FundDreamz, your go-to platform for turning dreams into reality. FundDreamz is a crowdfunding platform designed to help individuals, communities, startups, NGOs, and charities raise funds for their projects and initiatives. Whether you're an individual looking to get funding for a quick need/goal/dream, an entrepreneur with a groundbreaking idea, a community looking to make a positive change, or a charity in need of support, FundDreamz provides you with the tools and resources to bring your dreams to life..
 
-![FundDreamz Logo](assets/logo.png)
+![FundDreamz Logo](profile/asset/logo.png)
 
 ## About
 
